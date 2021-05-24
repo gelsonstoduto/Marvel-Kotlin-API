@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">Marvel Comics</string>
+    <string name="cab_comic">Marvel Comics</string>
+    <string name="list_comics">Lista de Revistas</string>
+    <string name="description_null">Sem descrição</string>
+    <string name="label_creators">CREATORS : </string>
+    <string name="label_dates">DATES : </string>
+    <string name="label_prices">PRICES : </string>
+    <string name="description">DESCRIPTION</string>
+    <string name="message_api_error">Houve um problema ao se comunicar com a API, por favor, tente novamente</string>
+    <string name="message_ops">Erro!</string>
+    <string name="fechar">FECHAR</string>
+    <string name="type">Type : "</string>
+</resources>

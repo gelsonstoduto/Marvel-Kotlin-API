@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+           tools:ignore="TypographyDashes">
+
+    <string name="sp_terms_text">sp_terms_text</string>
+
+    <integer name="connect_timeout">60</integer>
+    <integer name="write_timeout">60</integer>
+    <integer name="read_timeout">60</integer>
+    <string name="base_url">https://des.cedesrj.mobilidade.caixa.gov.br</string>
+    <string name="db_name">cvccaixa.db</string>
+
+    <string name="sso_client_id">cli-mob-cvc</string>
+    <string name="sso_redirect_url">br.gov.caixa.cartaovirtual:/oauth2Callback</string>
+    <string name="sso_issuer">https://logindes.caixa.gov.br/auth/realms/internet</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="api_key" >11439482-1639e81ccaad97e258a2267af</string>
+
+
+
+</resources>

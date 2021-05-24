@@ -1,0 +1,10 @@
+<resources>
+    <color name="colorPrimary">#0267b2</color>
+    <color name="colorPrimaryDark">#005991</color>
+    <color name="colorAccent">#F39200</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#CA0404</color>
+    <color name="blackTitle">#000000</color>
+    <color name="listTitle">#66000000</color>
+    <color name="background_dialog">#99020202</color>
+</resources>
